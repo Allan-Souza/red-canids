@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@900&display=swap');
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #000;
+  color: red;
+  font-family: 'Heebo', sans-serif;
+}
+
+.red-canids {
+  font-size: 65vh;
+  text-align: center;
+}
+
+.rufus {
+  width: 350px;
+}
